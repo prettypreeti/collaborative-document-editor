@@ -250,6 +250,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ using React, Node.js, and Socket.IO**
-
-**Happy Collaborating! 🎉**
+output---
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/933010a7-0a0c-47ff-9aa7-523bd715b362" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6bd3a43c-0279-4feb-ada8-1d427b3f8f2f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d6006bb5-d66c-4240-8645-310edc77f9bf" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3ecaf28f-2819-4ad0-81dc-ea99f9ca61eb" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/85f98326-c580-4d8c-ade9-c43cf827643b" />
